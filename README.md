@@ -123,14 +123,3 @@ Contact
 
 For business inquiries, support, or collaborations:
 Email: rakib8feb@gmail.com
-
-is licensed under the MIT License — see the LICENSE file for details.
-
-
----
-
-Contact
-
-For business inquiries, support, or collaborations:
-Email: rakib8feb@gmail.com
-
