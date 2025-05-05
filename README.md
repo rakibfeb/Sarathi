@@ -1,15 +1,15 @@
-Sarathi
+# Sarathi
 
-Connecting Drivers to Car Owners — Instantly.
+## Connecting Drivers to Car Owners — Instantly.
 
 Sarathi is a React Native mobile application designed to bridge the gap between drivers and car owners who need professional driving services for a few hours. The platform allows verified drivers to receive ride requests, manage trips, view earnings, and more — all in one place. Admins can monitor operations, manage content, and maintain seamless service through a powerful dashboard.
 
 
 ---
 
-Features
+# Features
 
-Driver App
+# Driver App
 
 Secure Login: Authentication flow for registered drivers.
 
@@ -41,7 +41,7 @@ Profile: Edit personal and vehicle details.
 
 ---
 
-Admin Dashboard
+# Admin Dashboard
 
 Secure Admin Login
 
@@ -67,10 +67,11 @@ System Settings: Configure global settings for the platform.
 
 ---
 
-Tech Stack
-Frontend: React Native, React Navigation
-Backend: Firebase
+# Tech Stack
 
+## Frontend: React Native, React Navigation
+
+Backend: Firebase
 
 Maps & Geolocation: Google Maps API
 
@@ -84,7 +85,7 @@ Analytics:Firebase Analytics
 
 ---
 
-Getting Started
+# Getting Started
 
 Prerequisites
 
@@ -97,8 +98,9 @@ Android Studio / Xcode
 Firebase or backend server credentials
 
 ---
-Videos 
+# Demo Video
 
+[Watch Demo on Google Drive](https://drive.google.com/file/d/your_file_id/view)
 
 
 ---
